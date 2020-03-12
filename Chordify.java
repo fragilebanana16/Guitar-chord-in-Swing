@@ -40,7 +40,7 @@ class singleSong{
   
   }
 }
-public class Main {
+public class Chordify {
 
     public static void main(String[] args) {
     
