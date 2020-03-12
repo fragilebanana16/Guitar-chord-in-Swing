@@ -6,7 +6,7 @@
 
 * @author Hurton  
 
-* @date 2020/03/12 ~ 2020/?/?  
+* @date 2020/03/12 ~ 2020/03/12  
 
 * @version 1.0  
 
@@ -53,7 +53,7 @@ public class Main {
       	new singleSong("Payphone", 0, 2,"Cadd7 G", "single:4th string and 2fret D(no 1th string 2fret)"),
       	new singleSong("Havana", 3, 2,"Em C", "2fret:1 3 5string 1fret::4string"),
       	new singleSong("Just the way you are", 3, 3,"D Bm G", "Nope"),
-      	new singleSong("Sooner", 0, 4,"G Cadd9 Em7 Cadd9", "CADD9食指不按"),
+      	new singleSong("Sooner", 0, 4,"G Cadd9 Em7 Cadd9", "CADD9脢鲁脰赂虏禄掳麓"),
       	new singleSong("Pink Champagne", 0, 3,"G Bm C", "3rd fret p 5rd fret (play four strings ) "),
       	new singleSong("You Don't Know Me", 7, 4,"C Em Am F(C-1)", "Nope"),
       	new singleSong("He said", 3, 3,"G EM7 D", "Nope"),
