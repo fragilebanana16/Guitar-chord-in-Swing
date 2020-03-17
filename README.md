@@ -1,5 +1,8 @@
 # Guitar-chord-in-Swing
 Chords recorder in Java swing 
+## Requirements
+- Java 13.0.2
+- jl1.0.1.jar
 ## 3rd party music player in jar
 cmd line needs jar option class path.Like:
 
@@ -8,7 +11,7 @@ javac -cp .\jl1.0.1.jar .\MP3Player.java
 java -cp ".\jl1.0.1.jar;" MP3Player
 ```
 
-[API] （http://www.javazoom.net/javalayer/docs/docs1.0/index.html）
+[API]（http://www.javazoom.net/javalayer/docs/docs1.0/index.html）
 ## Multi-thread
 
 in order to do sth else once you clicked play the music button,you will need multi-thread, override the method run, and your own behavior in it.
@@ -41,7 +44,7 @@ Try option classpath
 javac -cp ".;.\util\jl1.0.1.jar" Demo.java
 java -cp ".;.\util\jl1.0.1.jar" Demo
 ```
-[Swing API] (https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html)
+[Swing API](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html)
 
 
 ## What are $1.class,$2.class in my dir after javac?
