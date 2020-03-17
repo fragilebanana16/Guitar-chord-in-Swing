@@ -1,5 +1,5 @@
 # Guitar-chord-in-Swing
-Chords recorder in Java swing 
+Chords recorder in Java swing
 ## 1.Requirements
 - Java 13.0.2
 - jl1.0.1.jar
@@ -61,3 +61,5 @@ git add .
 git commit -m "msg" 
 git push -u origin master 
 ```
+## 9.Result
+![image](https://github.com/fragilebanana16/Guitar-chord-in-Swing/blob/master/naive.png)
