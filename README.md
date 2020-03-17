@@ -11,7 +11,7 @@ javac -cp .\jl1.0.1.jar .\MP3Player.java
 java -cp ".\jl1.0.1.jar;" MP3Player
 ```
 
-[API](http://www.javazoom.net/javalayer/docs/docs1.0/index.html）
+[API](http://www.javazoom.net/javalayer/docs/docs1.0/index.html)
 ## 3.Multi-thread
 
 in order to do sth else once you clicked play the music button,you will need multi-thread, override the method run, and your own behavior in it.
